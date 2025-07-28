@@ -7,9 +7,9 @@ Got it! I'll shorten the "Business Problems & Solutions" section by removing the
 
 # Business Problems
 This analysis addresses the following business problems. The detailed SQL solutions for each problem can be found within the project's SQL files.
-1.Content Type Distribution: Count the number of Movies vs TV Shows on Netflix.
-2.Most Common Content Rating: Find the most common rating for movies and TV shows.
-3.Movies Released in a Specific Year: List all movies released in a specific year (e.g., 2020).
+- Content Type Distribution: Count the number of Movies vs TV Shows on Netflix.
+Most Common Content Rating: Find the most common rating for movies and TV shows.
+.Movies Released in a Specific Year: List all movies released in a specific year (e.g., 2020).
 4.Top 5 Content-Producing Countries: Find the top 5 countries with the most content on Netflix.
 5.Longest Movie Identification: Identify the longest movie.
 6.Recent Content Additions: Find content added in the last 5 years.
