@@ -27,5 +27,4 @@ This analysis addresses the following business problems. The detailed SQL soluti
 The analysis is performed on a Netflix dataset, which typically includes information such as show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in (genres), and description.
 # Technologies Used
 SQL (Standard SQL): All analyses are performed using SQL queries, designed for compatibility across various relational database systems.
-A Relational Database System: You'll need a database (like SQLite, PostgreSQL, MySQL) to load and execute these queries.
-  
+
